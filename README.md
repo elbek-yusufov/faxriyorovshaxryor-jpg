@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/AWS-SageMaker%20%7C%20EC2-232F3E?logo=amazonaws&logoColor=white" />
 </p>
 
-i, I'm **Sirojbek** — an AI/ML engineer with 3+ years of backend development experience, specializing in building production-ready machine learning systems and scalable APIs. I bridge the gap between data science and engineering, shipping end-to-end ML solutions that solve real business problems.
+i, I'm **Elbek Yusupov** — an AI/ML engineer with 3+ years of backend development experience, specializing in building production-ready machine learning systems and scalable APIs. I bridge the gap between data science and engineering, shipping end-to-end ML solutions that solve real business problems.
 
 - **Current focus:** Building ML-powered features and robust backends for enterprise systems
 - **Past highlights:** Architected 40+ microservices; re-engineered legacy systems for 10x performance gains; currently applying ML to optimize business workflows
